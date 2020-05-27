@@ -1,2 +1,4 @@
 modifying file2 for git diff
 modifying file2  second time for git diff
+complete statement 1
+complete statement 2
